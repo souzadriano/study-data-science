@@ -1,2 +1,2 @@
-# study_statistics_python
+# Study Statistics and Python
 Project to me study statistics and python
