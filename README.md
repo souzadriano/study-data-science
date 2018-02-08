@@ -23,6 +23,8 @@ http://www.lerrua.com/blog/2016/03/08/primeiros-passos-com-data-science/
 
 https://github.com/bulutyazilim/awesome-datascience
 
+http://blog.datacamp.com/wp-content/uploads/2014/08/How-to-become-a-data-scientist.jpg
+
 ## Python
 https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
 
