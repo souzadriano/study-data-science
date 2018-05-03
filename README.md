@@ -3,15 +3,11 @@ Project to me study data science
 
 https://veduca.org/p/probabilidade-e-estatistica 
 
-https://br.udacity.com/course/intro-to-statistics--st101 
-
 https://pt.khanacademy.org/math
 
 https://www.coursera.org/learn/machine-learning
 
 https://www.coursera.org/specializations/jhu-data-science 
-
-https://www.udacity.com/courses/ud170
 
 http://www.lerrua.com/blog/2016/03/08/primeiros-passos-com-data-science/
 
