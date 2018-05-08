@@ -77,6 +77,8 @@ https://br.udacity.com/course/linear-algebra-refresher-course--ud953
 
 https://br.udacity.com/course/artificial-intelligence--ud954
 
+https://br.udacity.com/course/artificial-intelligence-for-robotics--cs373
+
 ## Python
 https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
 
