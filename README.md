@@ -15,6 +15,30 @@ https://github.com/bulutyazilim/awesome-datascience
 
 http://blog.datacamp.com/wp-content/uploads/2014/08/How-to-become-a-data-scientist.jpg
 
+https://www.edx.org/course/machine-learning-columbiax-csmm-102x-3
+
+https://www.edx.org/professional-certificate/harvardx-data-science
+
+https://www.edx.org/micromasters/data-science
+
+https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6
+
+https://www.edx.org/xseries/data-analysis-life-sciences
+
+https://www.edx.org/micromasters/big-data
+
+https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow
+
+https://hackr.io/tutorials/learn-artificial-intelligence-ai
+
+http://cs109.github.io/2015/
+
+http://cs224d.stanford.edu/
+
+http://cs231n.stanford.edu/
+
+http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml
+
 ### Udacity free courses
 
 https://eu.udacity.com/course/deep-learning--ud730
