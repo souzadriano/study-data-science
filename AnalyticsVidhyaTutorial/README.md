@@ -1,12 +1,19 @@
+Tutorial https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
+
 # INSTALL
 
 ```
-python3 -m pip install --upgrade pip
-python3 -m pip install jupyter
+python2 -m pip install --upgrade pip
+python2 -m pip install jupyter
 
-pip3 install pandas
+sudo pip2 install pandas
 
-pip3 install matplotlib
+sudo pip2 install matplotlib
+
+sudo pip2 install sklearn
+
+sudo pip2 install scipy
+
 ```
 
 # RUN
