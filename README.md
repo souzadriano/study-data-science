@@ -13,6 +13,8 @@ https://www.udemy.com/machinelearning/
 
 https://www.udemy.com/deeplearning/
 
+https://developers.google.com/machine-learning/crash-course/
+
 https://pt.khanacademy.org/math
 
 https://www.coursera.org/specializations/jhu-data-science 
