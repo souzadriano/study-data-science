@@ -7,6 +7,14 @@ Project to me study data science
 
 [IN PROGRESS] https://veduca.org/p/probabilidade-e-estatistica
 
+[COMPLETE] https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
+
+https://www.udemy.com/machinelearning/
+
+https://www.udemy.com/deeplearning/
+
+https://developers.google.com/machine-learning/crash-course/
+
 https://pt.khanacademy.org/math
 
 https://www.coursera.org/specializations/jhu-data-science 
@@ -104,7 +112,6 @@ https://br.udacity.com/course/artificial-intelligence--ud954
 https://br.udacity.com/course/artificial-intelligence-for-robotics--cs373
 
 ## Python
-https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
 
 http://docs.python-guide.org/en/latest/
 
